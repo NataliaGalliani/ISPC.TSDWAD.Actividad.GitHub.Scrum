@@ -9,7 +9,7 @@ Actividad correspondiente al módulo Programador de la Tecnicatura Superior en D
 1. Ana Belén Acevedo (Aula 22)
 2. Amazan Andersen (Aula 22)
 3. Lucio Angellotti (Aula 22)
-4. Fernanda Caraballo (Aula 22)
+4. Fernanda Carballo (Aula 22)
 5. Ayrton Chinellato (Aula 22)
 6. Ángel Nicolás Corzo (Aula 17)
 7. María Julia Díaz (Aula 22)
